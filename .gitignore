@@ -363,10 +363,10 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Images
-Backend/src/MediSearch.WebApi/wwwroot/Assets/Images/Companies/
-Backend/src/MediSearch.WebApi/wwwroot/Assets/Images/Products/
-Backend/src/MediSearch.WebApi/wwwroot/Assets/Images/Users/
-Backend/src/MediSearch.WebApi/wwwroot/Assets/Images/Chats/
+src/MediSearch.WebApi/wwwroot/Assets/Images/Companies/
+src/MediSearch.WebApi/wwwroot/Assets/Images/Products/
+src/MediSearch.WebApi/wwwroot/Assets/Images/Users/
+src/MediSearch.WebApi/wwwroot/Assets/Images/Chats/
 
 # ========================================================
 # Logs
